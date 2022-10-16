@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
 </div>
 
-<div style="margin-bottom: 40px;" align="end">
+<div align="end">
 
  <a href="https://www.notion.so/1b2415a83a5f45f6a9c81cec73bce426">
  
-   <img style="height: 70px; width: 150px; margin-bottom: 50px;" src="https://img.shields.io/badge/Notion-334455?style=flat-square&logo=Notion&logoColor=white"/>
+   <img style="height: 60px; width: 150px;" src="https://img.shields.io/badge/Notion-334455?style=flat-square&logo=Notion&logoColor=white"/>
  
  </a>
 
