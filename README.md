@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 </div>
 
-<div align="end">
+<div style="margin-bottom: 40px;" align="end">
 
  <a href="https://www.notion.so/1b2415a83a5f45f6a9c81cec73bce426">
  
