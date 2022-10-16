@@ -1,7 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=shark)
 # EunYeChan's Github!!!
-![header](https://capsule-render.vercel.app/api?type=slice)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=shark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=dracula)
 ____________________________________________________________________________________________________________________________________________________________
 
 
