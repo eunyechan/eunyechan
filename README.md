@@ -8,7 +8,9 @@ ________________________________________________________________________________
 </div>
 
 <a href="https://www.notion.so/1b2415a83a5f45f6a9c81cec73bce426">
-   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ 
+   ##<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+ 
 </a>
 
 
