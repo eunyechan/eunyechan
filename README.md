@@ -1,7 +1,7 @@
 # EunYeChan's Github!!!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=dark)
 ____________________________________________________________________________________________________________________________________________________________
 
 
