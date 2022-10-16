@@ -1,7 +1,7 @@
 # EunYeChan's Github!!!
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=egg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=shark)
 ____________________________________________________________________________________________________________________________________________________________
 
 
