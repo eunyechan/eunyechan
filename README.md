@@ -40,6 +40,21 @@ ________________________________________________________________________________
  
 </div>
 
+<div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyechan&layout=compact)](https://github.com/eunyechan/github-readme-stats)
+ <div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=dracula)
+ 
+ </div>
+ 
+ <div align="end">
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunyechan&layout=compact)](https://github.com/eunyechan/github-readme-stats)
+ 
+ </div>
+
+</div>
+
+
+
