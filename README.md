@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yechan's%20Github&fontSize=90)
-# EunYeChan's Github!!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunyechan&show_icons=true&theme=dracula)
 ____________________________________________________________________________________________________________________________________________________________
