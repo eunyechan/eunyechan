@@ -3,6 +3,9 @@
 ____________________________________________________________________________________________________________________________________________________________
 ## 안녕하세요 은예찬입니다. 새로운 언어에 대해 흥미를 가지고 있는 프론트엔드 개발자입니다.
 
+<div align="end">
+ 하이
+</div>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunyechan&count_bg=%23276FC6&title_bg=%235F68CA&icon=googlekeep.svg&icon_color=%23F5EBEB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
